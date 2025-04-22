@@ -1,7 +1,7 @@
 ---
 name: 'User Stories: Patient'
 about: Patient User stories
-title: patien-user-story
+title: Patient User Story
 labels: good first issue
 assignees: dcsndevs
 

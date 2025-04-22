@@ -1,7 +1,7 @@
 ---
 name: 'User Stories: Staff'
 about: Staff User stories
-title: user-story-staff
+title: Staff User Story
 labels: good first issue
 assignees: dcsndevs
 
