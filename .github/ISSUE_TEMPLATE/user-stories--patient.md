@@ -2,7 +2,7 @@
 name: 'User Stories: Patient'
 about: Patient User stories
 title: Patient User Story
-labels: good first issue
+labels: ''
 assignees: dcsndevs
 
 ---

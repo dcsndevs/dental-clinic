@@ -2,7 +2,7 @@
 name: 'User Stories: Staff'
 about: Staff User stories
 title: Staff User Story
-labels: good first issue
+labels: Staff User stories
 assignees: dcsndevs
 
 ---
